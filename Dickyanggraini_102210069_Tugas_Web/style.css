@@ -1,0 +1,64 @@
+body{
+    background-image: url(https://securecdn.pymnts.com/wp-content/uploads/2017/01/xiaomiandexpansion.jpg);
+    background-size: cover;
+}
+h1{
+    color: orange;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-bottom: 250px;
+    margin-top: 50px;
+}
+
+.fa-newspaper{
+    color: black;
+    margin-left: 150px;
+    padding-top: 200px;
+    padding: 10px;
+}
+.fa-newspaper:hover{
+    box-shadow: 1px 1px 2px 2px orange;
+    background-color: transparent;
+    border-radius: 10px;
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
+.fa-image{
+    color: black;
+    margin-left: 300px;
+    padding: 10px;
+}
+.fa-image:hover{
+    box-shadow: 1px 1px 2px 2px orange;
+    background-color: transparent;
+    border-radius: 10px;
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
+.fa-user{
+    color: black;
+    margin-left: 150px;
+    padding-top: 200px;
+    padding: 10px;
+}
+.fa-user:hover{
+    box-shadow: 1px 1px 2px 2px orange;
+    background-color: transparent;
+    border-radius: 10px;
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
+.fa-address-book{
+    color: black;
+    margin-left: 150px;
+    padding-top: 200px;
+    padding: 10px;
+}
+.fa-address-book:hover{
+    box-shadow: 1px 1px 2px 2px orange;
+    background-color: transparent;
+    border-radius: 10px;
+    transition: all 0.6s ease;
+    cursor: pointer;
+}
